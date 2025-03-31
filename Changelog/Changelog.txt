@@ -1,1 +1,6 @@
-
+CardSaverV2 - Change Log
+-------------------------
+Version 2.0 - Initial release with improved functionality
+- Added administrative privileges
+- Saves card details securely
+- Creates separate directory for additional files
