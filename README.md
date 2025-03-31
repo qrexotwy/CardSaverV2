@@ -1,17 +1,22 @@
-
-![Logo](https://i.postimg.cc/qqNCdWfN/CXard.png)
+![Logo](https://i.postimg.cc/qqNCdWfN/CXard.png)  
 
 # CardSaverV2
-Simple, Easy To Use Card Saver.
+*Simple and Easy-to-Use Card Saver*
 
-## Owner & Developer
-   - [qrexotwy](https://github.com/qrexotwy)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 
-## Disclaimer  
-CardSaverV2 is provided "as is" without any warranties. The developer is not responsible for any data loss, security breaches, or misuse of this software. Use at your own risk.
+## Owner & Developer 
+👤 [qrexotwy](https://github.com/qrexotwy)  
 
-## What It Looks Like
-![image](https://github.com/user-attachments/assets/c31cc4b1-afe2-4c9a-b3f6-4c427a588640)
-## Features
+## Disclaimer ⚠️  
+CardSaverV2 is provided *"as is"* without any warranties. The developer is **not responsible** for data loss, security breaches, or misuse of this software. **Use at your own risk.**  
 
-- Custom File Name
+## Preview 🖼️  
+![App Screenshot](https://github.com/user-attachments/assets/c31cc4b1-afe2-4c9a-b3f6-4c427a588640)  
+
+## Features ✨  
+✅ Custom File Naming  
+✅ Secure Card Saving  
+
+## Support
+   - Leave A Comment In The [Issues](https://github.com/qrexotwy/CardSaverV2/issues) tab.
