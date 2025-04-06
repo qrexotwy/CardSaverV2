@@ -1,7 +1,7 @@
 ![Logo](https://i.postimg.cc/qqNCdWfN/CXard.png)  
 
 # CardSaverV2
-**Simple and Easy-to-Use Card Saver In Python**
+**Simple and Easy-to-Use Card Saver. In Python**
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)  
 
